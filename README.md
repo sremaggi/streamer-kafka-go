@@ -1,2 +1,2 @@
-# consumer-kafka-go
-consume un topico Kafka y produce un JSON
+# Streamer kafka Golang
+consume un topico Kafka y produce hacia otro.
